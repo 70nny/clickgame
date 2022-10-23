@@ -104,4 +104,5 @@ h1 {
 .restart{
     font-size: 30px;
     color: lawngreen;
+  cursor:pointer;
 }
